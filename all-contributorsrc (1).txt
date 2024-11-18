@@ -1,0 +1,44 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ramayer",
+      "name": "ramayer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72320?v=4",
+      "profile": "https://github.com/ramayer",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Caphyon",
+      "name": "Caphyon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15829334?v=4",
+      "profile": "https://www.caphyon.com",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "abidkhan484",
+      "name": "AbId KhAn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15053047?v=4",
+      "profile": "http://abidkhan484.github.io",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "rclip",
+  "projectOwner": "yurijmikhalevich",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
+}
